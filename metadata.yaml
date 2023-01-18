@@ -1,0 +1,27 @@
+_repo: The-neutral-merchant_69710
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Piggott, Francis
+    gutenberg_agent_id: '55379'
+    url: http://www.gutenberg.org/2009/agents/55379
+description: ''
+gutenberg_issued: '2023-01-05'
+identifiers:
+  gutenberg: '69710'
+language: en
+pgterms:marc904: https://archive.org/details/neutralmerchanti00piggrich
+pgterms:marc905: 20201110133309piggott
+pgterms:marc906: '1915'
+pgterms:marc907: GB
+production_note: deaurider, Franciszek Skawiński and the Online Distributed Proofreading
+  Team at https://www.pgdp.net (This file was produced from images generously made
+  available by The Internet Archive)
+publication_note: 'United Kingdom: University of London Press,1915.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: The neutral merchant
+url: http://www.gutenberg.org/ebooks/69710
